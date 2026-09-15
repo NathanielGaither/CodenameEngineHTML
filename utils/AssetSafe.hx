@@ -1,4 +1,3 @@
-// name=utils/AssetSafe.hx
 package utils;
 
 import openfl.utils.Assets;

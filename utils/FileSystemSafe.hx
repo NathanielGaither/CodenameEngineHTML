@@ -1,4 +1,3 @@
-// name=utils/FileSystemSafe.hx
 package utils;
 
 import openfl.utils.Assets;

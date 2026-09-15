@@ -1,4 +1,3 @@
-// name=utils/ShaderUtils.hx
 package utils;
 
 import EReg;

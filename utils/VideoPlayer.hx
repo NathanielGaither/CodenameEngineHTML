@@ -1,4 +1,3 @@
-// name=utils/VideoPlayer.hx
 package utils;
 
 import openfl.utils.Assets;
